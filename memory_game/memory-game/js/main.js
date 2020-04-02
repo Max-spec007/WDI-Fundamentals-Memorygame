@@ -1,8 +1,4 @@
 console.log("Up and running!");
-console.log("User flipped queen");
-console.log("User flipped king");
-console.log("Sorry, try again.");
-
 
 var cards = [
   {
